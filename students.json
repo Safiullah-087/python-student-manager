@@ -8,5 +8,15 @@
         "name": "ahmed",
         "age": 21,
         "semester": "7"
+    },
+    {
+        "name": "ali",
+        "age": 20,
+        "semester": "6"
+    },
+    {
+        "name": "safi",
+        "age": 21,
+        "semester": "7"
     }
 ]
